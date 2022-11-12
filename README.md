@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lirielly
-- 👀 I’m interested in data science, muay thai and kickboxing, drums
+- 👀 I’m interested in data science, muay thai, kickboxing and drums
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on NLP
 - 📫 How to reach me lvitorugo@gmail.com
